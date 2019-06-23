@@ -7,6 +7,15 @@ It is mainly maintained for use in the browser. If you are working with Node.js,
 to your dependencies only the libraries that you need, as they are usually published to npm more often.  
 We prefix all our npm package names with `ml-` (eg. ml-matrix) so they are easy to find.
 
+## Machinne Learning Introductory resources
+
+ * [Introduction to classification with mljs](https://github.com/mljs/ml/tree/master/examples/leafDataset)
+ * [A Practical Guide to Support Vector Classification](https://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf)
+ * [Machine Learning with JavaScript : Part 1: ml-regression](https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5) 
+  * [Machine Learning with JavaScript : Part 2: mljs](https://hackernoon.com/machine-learning-with-javascript-part-2-da994c17d483) 
+ 
+## Browser usage
+
 To include the ml.js library in a web page:
 
 ```html
